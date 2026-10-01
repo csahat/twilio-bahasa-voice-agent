@@ -1,0 +1,34 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+gunicorn
+
+soundfile
+
+# HTTP Client
+httpx
+aiofiles
+
+# Voice activity detection (prebuilt wheels of webrtcvad; same import name)
+webrtcvad-wheels
+
+# Environment Variables
+python-dotenv
+
+# Vector Database Client
+pinecone
+
+# LlamaIndex Core and Integrations
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-vector-stores-pinecone
+llama-index-embeddings-openai
+
+# PDF Processing
+PyMuPDF
+twilio
+python-multipart
+
+pydub
+ffmpeg
