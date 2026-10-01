@@ -4,6 +4,12 @@ A real-time voice agent that answers phone calls in **Bahasa Indonesia**, ground
 
 Built as a proof of concept for Indonesian customer-service teams, where most off-the-shelf voice AI is tuned for English first.
 
+### ▶️ Watch the demo
+
+[![Watch the demo video](https://img.youtube.com/vi/rS6CIX5B5wg/maxresdefault.jpg)](https://youtu.be/rS6CIX5B5wg)
+
+**[Watch the demo on YouTube](https://youtu.be/rS6CIX5B5wg)**: a live call to the agent, no setup needed.
+
 > **Status:** proof of concept. It runs end to end on live phone calls, but it is not production-hardened (see [Production readiness](#production-readiness)).
 
 ---
